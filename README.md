@@ -4,4 +4,4 @@ Cloned the project from [strawstack](https://github.com/strawstack/PhaserTemplat
 
 A basic template to get started with PhaserJS
 
-Hosted Demo - [Jumpy Star](https://tianyoudai.github.io/PhaserTemplate/index.html) 
+Hosted Demo: [Jumpy Star](https://tianyoudai.github.io/PhaserTemplate/index.html) 
