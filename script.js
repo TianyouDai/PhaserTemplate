@@ -2,7 +2,7 @@ var config = {
     type: Phaser.AUTO,
     width: 800,
     height: 600,
-    backgroundColor: "#000044", // game background color
+    backgroundColor: "#ABD1B5", // game background color
     physics: {
         default: 'matter',
         matter: {
